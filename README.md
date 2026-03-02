@@ -1,0 +1,3 @@
+# Gold-Not-Old
+
+Mostly modern Minecraft with a mostly not-modern look and feel
