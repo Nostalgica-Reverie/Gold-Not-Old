@@ -1,0 +1,5 @@
+[2026-02-28 13:15:56.751 -06:00 INF | PackItUp] PackItUp v1.0.0+25317693a3ec4853a95f94b203e9cbfe2dbbbc1d | https://codeberg.org/Dexrn/PackItUp
+[2026-02-28 13:15:56.822 -06:00 INF | PackItUp] Using packwiz found at path /usr/local/bin/packwiz
+[2026-02-28 13:15:57.565 -06:00 ERR | PackItUp/ModrinthModpackProvider:] Project ID  was not found on the provider, cannot process this modpack.
+[2026-02-28 13:15:57.566 -06:00 INF | PackItUp] 0 packs across 0 modpacks and 0 providers are eligible for upload
+[2026-02-28 13:15:57.571 -06:00 INF | PackItUp] Done! Run PackItUp with --export or --upload to export eligible modpacks.

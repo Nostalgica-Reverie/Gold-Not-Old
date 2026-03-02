@@ -1,0 +1,72 @@
+[2026-03-01 17:23:50.790 -06:00 INF | PackItUp] PackItUp v1.0.0+25317693a3ec4853a95f94b203e9cbfe2dbbbc1d | https://codeberg.org/Dexrn/PackItUp
+[2026-03-01 17:23:50.863 -06:00 INF | PackItUp] Using packwiz found at path /usr/local/bin/packwiz
+[2026-03-01 17:23:51.698 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] Pack with version 1.0.2+mc1.21.11 (Minecraft 1.21.11) eligible for upload
+[2026-03-01 17:23:51.699 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] 1 packs are eligible for upload
+[2026-03-01 17:23:51.702 -06:00 INF | PackItUp] 1 packs across 1 modpacks and 1 providers are eligible for upload
+[2026-03-01 17:23:51.702 -06:00 INF | PackItUp] Exporting packs in modpack Gold Not Old
+[2026-03-01 17:23:51.704 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] Exporting pack Gold Not Old 1.0.2
+[2026-03-01 17:23:51.706 -06:00 DBG | PackItUp/PackwizPackManager:Gold Not Old v1.0.2] modrinth export -o "/home/cjnator38/Documents/GitHub/Content-Monorepo/modpacks/gold-not-old/mr/yarn/1.21.11-fabric/PackItUp/Exports/Gold Not Old 1.0.2.mrpack"
+[2026-03-01 17:23:51.719 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Loading modpack...
+[2026-03-01 17:23:51.736 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Refreshing index... 100 % [=================================================] 0s
+[2026-03-01 17:23:51.736 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] [1A[JRefreshing index... 100 % [===============================================] done
+[2026-03-01 17:23:51.736 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] [1A[JRefreshing index... 100 % [===============================================] done
+[2026-03-01 17:23:51.738 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Reading external files...
+[2026-03-01 17:23:51.740 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Retrieving 48 external files...
+[2026-03-01 17:23:51.743 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Very Many Players (Fabric) (vmp-fabric-mc1.21.11-0.2.0+beta.7.227-all.jar) added to manifest
+[2026-03-01 17:23:51.743 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Golden Days Base (golden-days-base-1.21.x-1.15.0.zip) added to manifest
+[2026-03-01 17:23:51.743 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Forge Config API Port (ForgeConfigAPIPort-v21.11.1-mc1.21.11-Fabric.jar) added to manifest
+[2026-03-01 17:23:51.743 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] No Mob Latency (NoMobLatency-Fabric-1.0.2.jar) added to manifest
+[2026-03-01 17:23:51.744 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] No Prying Eyes (NoPryingEyes-2.0.0+1.21.10.jar) added to manifest
+[2026-03-01 17:23:51.744 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Polytone (polytone-1.21.11-5.4.13-fabric.jar) added to manifest
+[2026-03-01 17:23:51.744 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Golden Age Combat (GoldenAgeCombat-v21.11.0-mc1.21.11-Fabric.jar) added to manifest
+[2026-03-01 17:23:51.745 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Classic Villages (Classic Villages 1.4.3 (Workstations and Gravel Paths).zip) added to manifest
+[2026-03-01 17:23:51.745 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] FerriteCore (ferritecore-8.2.0-fabric.jar) added to manifest
+[2026-03-01 17:23:51.745 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Better Block Entities (bbe-1.3.0-rc.2+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.745 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] YetAnotherConfigLib (YACL) (yet_another_config_lib_v3-3.8.2+1.21.11-fabric.jar) added to manifest
+[2026-03-01 17:23:51.745 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Crash Assistant (CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar) added to manifest
+[2026-03-01 17:23:51.746 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Gnetum (Gnetum-4.1.1+1.21.11-fabric.jar) added to manifest
+[2026-03-01 17:23:51.746 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Moderner Beta (moderner-beta-fabric-4.1.0+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.746 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] ImmediatelyFast (ImmediatelyFast-Fabric-1.14.2+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.746 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] ServerCore (servercore-fabric-1.5.15+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.746 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Custom Default World Preset (custom-default-world-preset-1.0.5+mc.1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.747 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Stfu (Stfu-2.9.0-1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.747 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Sodium (sodium-fabric-0.8.4+mc1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.747 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Programmer Art Continuation Project (PACP_Base_Release.zip) added to manifest
+[2026-03-01 17:23:51.747 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Animatium (animatium-3.0+1.21.11-fabric.jar) added to manifest
+[2026-03-01 17:23:51.747 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Configured Defaults (ConfiguredDefaults-v21.11.0-mc1.21.11-Fabric.jar) added to manifest
+[2026-03-01 17:23:51.747 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Enchanted's Sodium Options (enchanteds_sodium_options-1.1.1+0.8.4-mc1.21.11-fabric.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] [ETF] Entity Texture Features (entity_texture_features_1.21.11-fabric-7.0.9.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Picture Mode (picturemode-fabric-1.1.1+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] ScalableLux (ScalableLux-0.1.6+fabric.c25518a-all.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Cloth Config API (cloth-config-21.11.153-fabric.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Simple Resource Loader (simpleresourceloader-1.0.0+1.21.1.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] BadOptimizations (BadOptimizations-2.4.1-1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Cubes Without Borders (cwb-fabric-3.0.0-build.14+mc1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Entity Culling (entityculling-fabric-1.9.5-mc1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Resource Pack Overrides (ResourcePackOverrides-v21.11.1-mc1.21.11-Fabric.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Dynamic FPS (dynamic-fps-3.11.4+minecraft-1.21.11-fabric.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] More Culling (moreculling-fabric-1.21.11-1.6.2.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Fzzy Config (fzzy_config-0.7.6+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Particle Core (particle_core-0.3.2+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] [EMF] Entity Model Features (entity_model_features_1.21.11-fabric-3.0.12.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Fabric API (fabric-api-0.141.3+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Lithium (lithium-fabric-0.21.3+mc1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Mod Menu (modmenu-17.0.0-beta.2.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Fast Noise (zfastnoise-1.0.19+1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.748 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Text Placeholder API (placeholder-api-2.8.2+1.21.10.jar) added to manifest
+[2026-03-01 17:23:51.749 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Puzzles Lib (PuzzlesLib-v21.11.11-mc1.21.11-Fabric.jar) added to manifest
+[2026-03-01 17:23:51.749 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] ThreadTweak (threadtweak-fabric-0.1.8+mc1.21.11.jar) added to manifest
+[2026-03-01 17:23:51.749 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Ixeris (Ixeris-4.0.2+1.21.11-fabric.jar) added to manifest
+[2026-03-01 17:23:51.749 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Sodium Core Shader Support (sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.4-SodiumCoreShaderSupport-1.4.6.jar) added to manifest
+[2026-03-01 17:23:51.749 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Timeless (timeless-1.21.11-1.3.7.jar) added to manifest
+[2026-03-01 17:23:51.749 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Fabric Language Kotlin (fabric-language-kotlin-1.13.9+kotlin.2.3.10.jar) added to manifest
+[2026-03-01 17:23:51.761 -06:00 INF | PackItUp/PackwizPackManager:Gold Not Old v1.0.2 | Export] Modpack exported to /home/cjnator38/Documents/GitHub/Content-Monorepo/modpacks/gold-not-old/mr/yarn/1.21.11-fabric/PackItUp/Exports/Gold Not Old 1.0.2.mrpack
+[2026-03-01 17:23:51.765 -06:00 INF | PackItUp] Finished exporting Gold Not Old v1.0.2 to path /home/cjnator38/Documents/GitHub/Content-Monorepo/modpacks/gold-not-old/mr/yarn/1.21.11-fabric/PackItUp/Exports/Gold Not Old 1.0.2.mrpack
+[2026-03-01 17:23:51.765 -06:00 INF | PackItUp] Uploading packs in modpack Gold Not Old
+[2026-03-01 17:23:51.769 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] Uploading version 1.0.2+mc1.21.11 with title Gold Not Old 1.0.2
+[2026-03-01 17:23:51.770 -06:00 WRN | PackItUp/ModrinthModpackProvider:SdrpknJJ] No changelog has been created for this version (expected at path /home/cjnator38/Documents/GitHub/Content-Monorepo/modpacks/gold-not-old/mr/yarn/1.21.11-fabric/PackItUp/Changelogs/1.0.2+mc1.21.11.md)
+[2026-03-01 17:23:51.770 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] Options:
+ - Skip uploading this version (s)
+ - Rescan for the changelog (r)
+ - Continue with no changelog (c)
+[2026-03-01 17:23:51.770 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] Choose an option (s/r/c): 

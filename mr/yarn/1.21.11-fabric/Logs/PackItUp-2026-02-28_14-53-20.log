@@ -1,0 +1,6 @@
+[2026-02-28 14:53:20.993 -06:00 INF | PackItUp] PackItUp v1.0.0+25317693a3ec4853a95f94b203e9cbfe2dbbbc1d | https://codeberg.org/Dexrn/PackItUp
+[2026-02-28 14:53:21.066 -06:00 INF | PackItUp] Using packwiz found at path /usr/local/bin/packwiz
+[2026-02-28 14:53:21.763 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] Pack with version 1.0+mc1.21.11 (Minecraft 1.21.11) eligible for upload
+[2026-02-28 14:53:21.764 -06:00 INF | PackItUp/ModrinthModpackProvider:SdrpknJJ] 1 packs are eligible for upload
+[2026-02-28 14:53:21.767 -06:00 INF | PackItUp] 1 packs across 1 modpacks and 1 providers are eligible for upload
+[2026-02-28 14:53:21.768 -06:00 INF | PackItUp] Done! Run PackItUp with --export or --upload to export eligible modpacks.
