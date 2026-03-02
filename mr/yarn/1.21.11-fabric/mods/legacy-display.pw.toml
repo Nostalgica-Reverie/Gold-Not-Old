@@ -1,0 +1,13 @@
+name = "Legacy Display"
+filename = "legacy-display-1.1.22.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TmbxdF9G/versions/J85iaA7g/legacy-display-1.1.22.jar"
+hash-format = "sha512"
+hash = "749e634ee2fc23accae863e5e5f4917fc0c575280bcda9d6329c6e724bb6fd49e94615795aa567c4598764f4a00c0a810c2f3c2c52d19dad63a3253bfe085233"
+
+[update]
+[update.modrinth]
+mod-id = "TmbxdF9G"
+version = "J85iaA7g"

@@ -89,6 +89,10 @@ file = "config/ixeris.toml"
 hash = "808b76d281cedc9edc1736b42d2fc99d274fbf4650d53c617eb17fc71006689c"
 
 [[files]]
+file = "config/legacy_display.json5"
+hash = "52f14be7e635c25bdf63a0b009a97f42e7a4816bddbb1536e9c241a1f90c5129"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "928fdb1e604e394de7389a4b7a7f230fe6863a468e1839bee22d80652ea0d31f"
 
@@ -275,6 +279,10 @@ hash = "76aa2fb300513b5e5ce592c606da18a59ad07cc7d98b9a7cd3abc420fdddce13"
 [[files]]
 file = "configureddefaults/config/ixeris.toml"
 hash = "808b76d281cedc9edc1736b42d2fc99d274fbf4650d53c617eb17fc71006689c"
+
+[[files]]
+file = "configureddefaults/config/legacy_display.json5"
+hash = "52f14be7e635c25bdf63a0b009a97f42e7a4816bddbb1536e9c241a1f90c5129"
 
 [[files]]
 file = "configureddefaults/config/lithium.properties"
@@ -495,6 +503,11 @@ hash = "10fc881ee3e588b90741540e53e72fcd4d055165bc9021ea362359118e338644"
 metafile = true
 
 [[files]]
+file = "mods/legacy-display.pw.toml"
+hash = "81d0c02fc35bec8feb80102757e9101032613247a2f55ffe9745a2402a12e7c5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "9a74f9345a91af6a0e2c1975e1dd1d26cfcae6fb072a3a0d68fd9de110ab6327"
 metafile = true
@@ -522,6 +535,11 @@ metafile = true
 [[files]]
 file = "mods/no-prying-eyes.pw.toml"
 hash = "02b2589dea8edaeaab3639a589ddaba5f233093cf87fff192a855e1a999f6f91"
+metafile = true
+
+[[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "01cce2adecdc5e33fba69ff99c5a87f847733a0238f8e94ad2c9841cb26ec2ba"
 metafile = true
 
 [[files]]
