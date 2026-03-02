@@ -22,7 +22,7 @@ hash = "75392cd61ae30b6523b02e22493aefb64afcb1b283c060c84175a78d2ac4b018"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "eb3a9c4421df24183012b2cea592d95cd8da79093f5f17bfc728bac695e0dc77"
+hash = "0a2d1531b72c171d07568f35db1867788b0697f5044529f629597610fc0d8d4d"
 
 [[files]]
 file = "config/crash_assistant/problematic_mods_config.json"
@@ -214,7 +214,7 @@ hash = "75392cd61ae30b6523b02e22493aefb64afcb1b283c060c84175a78d2ac4b018"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/modlist.json"
-hash = "eb3a9c4421df24183012b2cea592d95cd8da79093f5f17bfc728bac695e0dc77"
+hash = "0a2d1531b72c171d07568f35db1867788b0697f5044529f629597610fc0d8d4d"
 
 [[files]]
 file = "configureddefaults/config/crash_assistant/problematic_mods_config.json"

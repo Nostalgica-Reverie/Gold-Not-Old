@@ -158,6 +158,13 @@
     "curseForgeHash": 790038922,
     "modrinthHash": "15b91ffa7343693de68581a1bdeb4d48f1d169ef"
   },
+  "legacy-display-1.1.22.jar": {
+    "jarName": "legacy-display-1.1.22.jar",
+    "modId": "legacy_display",
+    "version": "1.1.22",
+    "curseForgeHash": 982880196,
+    "modrinthHash": "46e5b994b509a5c9a21352cf5224d475f40d6fdb"
+  },
   "lithium-fabric-0.21.3+mc1.21.11.jar": {
     "jarName": "lithium-fabric-0.21.3+mc1.21.11.jar",
     "modId": "lithium",
@@ -199,6 +206,13 @@
     "version": "2.0.0",
     "curseForgeHash": 144166547,
     "modrinthHash": "6991e9f120684fbbb8e6846955fe5e055868274d"
+  },
+  "owo-lib-0.13.0+1.21.11.jar": {
+    "jarName": "owo-lib-0.13.0+1.21.11.jar",
+    "modId": "owo",
+    "version": "0.13.0+1.21.11",
+    "curseForgeHash": 2801390240,
+    "modrinthHash": "5baf520ec1e69210ee430a8413a6493cc402764d"
   },
   "particle_core-0.3.2+1.21.11.jar": {
     "jarName": "particle_core-0.3.2+1.21.11.jar",
