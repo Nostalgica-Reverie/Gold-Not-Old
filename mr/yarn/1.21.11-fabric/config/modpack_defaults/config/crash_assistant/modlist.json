@@ -18,12 +18,12 @@
     "curseForgeHash": 1539063478,
     "modrinthHash": "70fa28d5a7a1fdd61dd804ca6ac411750da1473f"
   },
-  "bbe-1.3.0-rc.2+1.21.11.jar": {
-    "jarName": "bbe-1.3.0-rc.2+1.21.11.jar",
+  "bbe-1.3.0+1.21.11.jar": {
+    "jarName": "bbe-1.3.0+1.21.11.jar",
     "modId": "betterblockentities",
-    "version": "1.3.0-rc.2+1.21.11",
-    "curseForgeHash": 3182900566,
-    "modrinthHash": "aba98d36e790bd9c9f117c731ca0fc76874079c9"
+    "version": "1.3.0",
+    "curseForgeHash": 1084234752,
+    "modrinthHash": "5183aaa17cfa49d8ddef2ce9fb77827929f07dc9"
   },
   "cloth-config-21.11.153-fabric.jar": {
     "jarName": "cloth-config-21.11.153-fabric.jar",
@@ -31,13 +31,6 @@
     "version": "21.11.153",
     "curseForgeHash": 3629916016,
     "modrinthHash": "4c224606a963bce223db5b27edb4959ecf40d4ee"
-  },
-  "ConfiguredDefaults-v21.11.0-mc1.21.11-Fabric.jar": {
-    "jarName": "ConfiguredDefaults-v21.11.0-mc1.21.11-Fabric.jar",
-    "modId": "configureddefaults",
-    "version": "21.11.0",
-    "curseForgeHash": 3646502109,
-    "modrinthHash": "2b2a3b484bc5f98c41ef6175dbdb8f874cfff132"
   },
   "CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar": {
     "jarName": "CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
@@ -67,12 +60,12 @@
     "curseForgeHash": 3469867681,
     "modrinthHash": "966c7f4018ef34f469bbf54d7e6b64b686a727ab"
   },
-  "enchanteds_sodium_options-1.1.1+0.8.4-mc1.21.11-fabric.jar": {
-    "jarName": "enchanteds_sodium_options-1.1.1+0.8.4-mc1.21.11-fabric.jar",
+  "enchanteds_sodium_options-1.1.3+0.8.6-mc1.21.11-fabric.jar": {
+    "jarName": "enchanteds_sodium_options-1.1.3+0.8.6-mc1.21.11-fabric.jar",
     "modId": "enchanteds_sodium_options",
-    "version": "1.1.1+0.8.4-mc1.21.11-fabric",
-    "curseForgeHash": 3693850218,
-    "modrinthHash": "904b170b6386ccf4ee89ea12a8946dbe91617b15"
+    "version": "1.1.3+0.8.6-mc1.21.11-fabric",
+    "curseForgeHash": 2449557767,
+    "modrinthHash": "0a11d7835378d0d70a432f2c9ac5ee190405a7c9"
   },
   "entity_model_features_1.21.11-fabric-3.0.12.jar": {
     "jarName": "entity_model_features_1.21.11-fabric-3.0.12.jar",
@@ -151,12 +144,12 @@
     "curseForgeHash": 1817047427,
     "modrinthHash": "4f17c6b7388f0afc5d24075dc2a294963f78c712"
   },
-  "Ixeris-4.0.2+1.21.11-fabric.jar": {
-    "jarName": "Ixeris-4.0.2+1.21.11-fabric.jar",
+  "Ixeris-4.1.0+1.21.11-fabric.jar": {
+    "jarName": "Ixeris-4.1.0+1.21.11-fabric.jar",
     "modId": "ixeris",
-    "version": "4.0.2+1.21.11-fabric",
-    "curseForgeHash": 790038922,
-    "modrinthHash": "15b91ffa7343693de68581a1bdeb4d48f1d169ef"
+    "version": "4.1.0+1.21.11-fabric",
+    "curseForgeHash": 1221578538,
+    "modrinthHash": "dbba1793230bcd3df2a27b83e35c32be73c6c3ff"
   },
   "legacy-display-1.1.22.jar": {
     "jarName": "legacy-display-1.1.22.jar",
@@ -277,19 +270,19 @@
     "curseForgeHash": 835492651,
     "modrinthHash": "faa2a9b25f3a3e1e6c6ed8ab860a5b10cec303ff"
   },
-  "sodium-fabric-0.8.4+mc1.21.11.jar": {
-    "jarName": "sodium-fabric-0.8.4+mc1.21.11.jar",
+  "sodium-fabric-0.8.6+mc1.21.11.jar": {
+    "jarName": "sodium-fabric-0.8.6+mc1.21.11.jar",
     "modId": "sodium",
-    "version": "0.8.4+mc1.21.11",
-    "curseForgeHash": 3654986812,
-    "modrinthHash": "c0a8ac43af978f8d8245bf033670944eb90d7b2e"
+    "version": "0.8.6+mc1.21.11",
+    "curseForgeHash": 1512225672,
+    "modrinthHash": "fa686304c63efea0456af91a0b6352f032e61e66"
   },
-  "sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.4-SodiumCoreShaderSupport-1.4.6.jar": {
-    "jarName": "sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.4-SodiumCoreShaderSupport-1.4.6.jar",
+  "sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.6-SodiumCoreShaderSupport-1.4.6.jar": {
+    "jarName": "sodiumcoreshadersupport-1.4.6-mc1.21.11-sodium0.8.6-SodiumCoreShaderSupport-1.4.6.jar",
     "modId": "sodiumcoreshadersupport",
     "version": "1.4.6",
-    "curseForgeHash": 1245421594,
-    "modrinthHash": "9ed2c9d18add3f1d9feff018b043b41e802f090e"
+    "curseForgeHash": 1283731055,
+    "modrinthHash": "f1a62086f102b5a5dd1d8ef0659cbf357f8c8cfd"
   },
   "Stfu-2.9.0-1.21.11.jar": {
     "jarName": "Stfu-2.9.0-1.21.11.jar",
@@ -326,11 +319,11 @@
     "curseForgeHash": 2325309501,
     "modrinthHash": "f99cda70903f16dd6927a276150b2762b4d5ab66"
   },
-  "zfastnoise-1.0.19+1.21.11.jar": {
-    "jarName": "zfastnoise-1.0.19+1.21.11.jar",
+  "zfastnoise-1.0.21+1.21.11.jar": {
+    "jarName": "zfastnoise-1.0.21+1.21.11.jar",
     "modId": "zfastnoise",
-    "version": "1.0.19+1.21.11",
-    "curseForgeHash": 2401328326,
-    "modrinthHash": "a94e264540a5030dcae0f0174074dec806ad7ee7"
+    "version": "1.0.21+1.21.11",
+    "curseForgeHash": 524679620,
+    "modrinthHash": "3608e0985877185c0eebc45e9cafab4b91e2c235"
   }
 }
