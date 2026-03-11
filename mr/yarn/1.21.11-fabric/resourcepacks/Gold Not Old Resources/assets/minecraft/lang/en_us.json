@@ -32,5 +32,6 @@
 	"resourcePack.server.name": "World Specific Textures",
 	"menu.game": "Game menu",
 	"menu.returnToGame": "Back to game",
-	"menu.returnToMenu": "Save and quit to title"
+	"menu.returnToMenu": "Save and quit to title",
+	"selectWorld.allowCommands.new": "Allow Cheats"
 }
