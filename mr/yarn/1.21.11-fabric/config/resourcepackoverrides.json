@@ -11,7 +11,7 @@
     "file/PACP_Base_Release.zip",
     "animatium:classic_textures",
     "animatium:classic_water",
-    "file/golden-days-base-1.21.x-1.15.0.zip",
+    "file/golden-days-base.zip",
     "file/Gold Not Old Resources"
   ],
   "pack_overrides": {
@@ -21,7 +21,7 @@
       "file/PACP_Base_Release.zip",
       "animatium:classic_textures",
       "animatium:classic_water",
-      "file/golden-days-base-1.21.x-1.15.0.zip",
+      "file/golden-days-base.zip",
       "file/Gold Not Old Resources"
     ],
     "$$1": {
