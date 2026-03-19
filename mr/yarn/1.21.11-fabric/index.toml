@@ -22,7 +22,7 @@ hash = "41ee9756749a569e0f50e71cb9c92387eccdd8329c3979bd5fcbcbf159df9c6e"
 
 [[files]]
 file = "config/crash_assistant/modlist.json"
-hash = "fe03e75d5e456b799f6fedb928128c5a34b36a9a3cb1ded0bc1b6dbfcd6a8e55"
+hash = "3299d714145d7069c96fd5603368fddd862eaf733c7dcc8f4aacbac5c2a93e7f"
 
 [[files]]
 file = "config/default_world_preset.txt"
@@ -122,15 +122,11 @@ hash = "2917a8f8112e36e27b240bdbe0e6987c5e8b0964595ed42ca2fbe1b16350df71"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/config.toml"
-hash = "75392cd61ae30b6523b02e22493aefb64afcb1b283c060c84175a78d2ac4b018"
+hash = "41ee9756749a569e0f50e71cb9c92387eccdd8329c3979bd5fcbcbf159df9c6e"
 
 [[files]]
 file = "config/modpack_defaults/config/crash_assistant/modlist.json"
-hash = "d56363b4a3ae7c5be61d91bba99bbf772d15f7db3fb74e6a8fb10b6fb9bb9a25"
-
-[[files]]
-file = "config/modpack_defaults/config/crash_assistant/problematic_mods_config.json"
-hash = "ac39420512ece55a61087db09fe6c4375aa8bd02966b78716c3e3e404938f693"
+hash = "3299d714145d7069c96fd5603368fddd862eaf733c7dcc8f4aacbac5c2a93e7f"
 
 [[files]]
 file = "config/modpack_defaults/config/default_world_preset.txt"
@@ -625,7 +621,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Gold Not Old Resources/assets/minecraft/lang/en_us.json"
-hash = "c46b9478f4a9fd6920734b96ebb215e1284474787b3808d560c2e807934e3e5e"
+hash = "67f398005e377b75b1ed3d6d087ca863be9116d9a46b3cc55f18038d3ca999c4"
 
 [[files]]
 file = "resourcepacks/Gold Not Old Resources/assets/minecraft/sounds/random/levelup.ogg"

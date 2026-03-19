@@ -32,12 +32,19 @@
     "curseForgeHash": 3629916016,
     "modrinthHash": "4c224606a963bce223db5b27edb4959ecf40d4ee"
   },
-  "CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar": {
-    "jarName": "CrashAssistant-fabric-1.21.5-1.21.11-1.10.30.jar",
+  "ConfigManager-fabric-1.21.x-1.1.1.jar": {
+    "jarName": "ConfigManager-fabric-1.21.x-1.1.1.jar",
+    "modId": "config_manager",
+    "version": "1.1.1",
+    "curseForgeHash": 3722035875,
+    "modrinthHash": "9ea08cbfeca54a94afb92edf8b1b95396fb48129"
+  },
+  "CrashAssistant-fabric-1.21.5-1.21.11-1.11.3.jar": {
+    "jarName": "CrashAssistant-fabric-1.21.5-1.21.11-1.11.3.jar",
     "modId": "crash_assistant",
-    "version": "1.10.30",
-    "curseForgeHash": 396097673,
-    "modrinthHash": "6a8ccfa38e3593d840922f1f920dde46261d2445"
+    "version": "1.11.3",
+    "curseForgeHash": 4049457989,
+    "modrinthHash": "16783b5cfeedf897ff8c60238282b7622c0e9608"
   },
   "custom-default-world-preset-1.0.5+mc.1.21.11.jar": {
     "jarName": "custom-default-world-preset-1.0.5+mc.1.21.11.jar",
@@ -123,12 +130,12 @@
     "curseForgeHash": 2733678718,
     "modrinthHash": "9b064c8bd1d6414549f6a1adcadf678ffa0c96c8"
   },
-  "Gnetum-4.1.1+1.21.11-fabric.jar": {
-    "jarName": "Gnetum-4.1.1+1.21.11-fabric.jar",
+  "Gnetum-4.2.1+1.21.11-fabric.jar": {
+    "jarName": "Gnetum-4.2.1+1.21.11-fabric.jar",
     "modId": "gnetum",
-    "version": "4.1.1+1.21.11-fabric",
-    "curseForgeHash": 3762671705,
-    "modrinthHash": "3f07e15c19a5980076d3cb7cf863380c1f06e7c5"
+    "version": "4.2.1+1.21.11-fabric",
+    "curseForgeHash": 725119704,
+    "modrinthHash": "037930d231fee51466580acdfbef6401bdf004de"
   },
   "GoldenAgeCombat-v21.11.0-mc1.21.11-Fabric.jar": {
     "jarName": "GoldenAgeCombat-v21.11.0-mc1.21.11-Fabric.jar",
@@ -144,12 +151,12 @@
     "curseForgeHash": 1817047427,
     "modrinthHash": "4f17c6b7388f0afc5d24075dc2a294963f78c712"
   },
-  "Ixeris-4.1.0+1.21.11-fabric.jar": {
-    "jarName": "Ixeris-4.1.0+1.21.11-fabric.jar",
+  "Ixeris-4.1.3+1.21.11-fabric.jar": {
+    "jarName": "Ixeris-4.1.3+1.21.11-fabric.jar",
     "modId": "ixeris",
-    "version": "4.1.0+1.21.11-fabric",
-    "curseForgeHash": 1221578538,
-    "modrinthHash": "dbba1793230bcd3df2a27b83e35c32be73c6c3ff"
+    "version": "4.1.3+1.21.11-fabric",
+    "curseForgeHash": 3599747135,
+    "modrinthHash": "74d65113cd37971487b31753a7d8b0ec4fd25237"
   },
   "legacy-display-1.1.22.jar": {
     "jarName": "legacy-display-1.1.22.jar",
@@ -158,12 +165,12 @@
     "curseForgeHash": 982880196,
     "modrinthHash": "46e5b994b509a5c9a21352cf5224d475f40d6fdb"
   },
-  "lithium-fabric-0.21.3+mc1.21.11.jar": {
-    "jarName": "lithium-fabric-0.21.3+mc1.21.11.jar",
+  "lithium-fabric-0.21.4+mc1.21.11.jar": {
+    "jarName": "lithium-fabric-0.21.4+mc1.21.11.jar",
     "modId": "lithium",
-    "version": "0.21.3+mc1.21.11",
-    "curseForgeHash": 3082843448,
-    "modrinthHash": "7733e091bebe5f68aaa4e13cfb6f1eaf3a192379"
+    "version": "0.21.4+mc1.21.11",
+    "curseForgeHash": 77570393,
+    "modrinthHash": "203bdcb26e97b3217b045e1182651a7d7b6462ec"
   },
   "moderner-beta-fabric-4.1.0+1.21.11.jar": {
     "jarName": "moderner-beta-fabric-4.1.0+1.21.11.jar",
@@ -214,12 +221,12 @@
     "curseForgeHash": 3173556117,
     "modrinthHash": "9d5b466bd0eabcf49564c760b9e88d781cbe0feb"
   },
-  "picturemode-fabric-1.1.1+1.21.11.jar": {
-    "jarName": "picturemode-fabric-1.1.1+1.21.11.jar",
+  "picturemode-fabric-1.1.2+1.21.11.jar": {
+    "jarName": "picturemode-fabric-1.1.2+1.21.11.jar",
     "modId": "picturemode",
-    "version": "1.1.1+1.21.11",
-    "curseForgeHash": 1683331809,
-    "modrinthHash": "7d83b9c51b059c431829a878d1665d2608fd97be"
+    "version": "1.1.2+1.21.11",
+    "curseForgeHash": 661510980,
+    "modrinthHash": "7ff335b5ab3f95985a4a3ac96fe61ceb98285a3f"
   },
   "placeholder-api-2.8.2+1.21.10.jar": {
     "jarName": "placeholder-api-2.8.2+1.21.10.jar",
@@ -319,11 +326,11 @@
     "curseForgeHash": 2325309501,
     "modrinthHash": "f99cda70903f16dd6927a276150b2762b4d5ab66"
   },
-  "zfastnoise-1.0.21+1.21.11.jar": {
-    "jarName": "zfastnoise-1.0.21+1.21.11.jar",
+  "zfastnoise-1.0.25+1.21.11.jar": {
+    "jarName": "zfastnoise-1.0.25+1.21.11.jar",
     "modId": "zfastnoise",
-    "version": "1.0.21+1.21.11",
-    "curseForgeHash": 524679620,
-    "modrinthHash": "3608e0985877185c0eebc45e9cafab4b91e2c235"
+    "version": "1.0.25+1.21.11",
+    "curseForgeHash": 2149261670,
+    "modrinthHash": "71d9a9609f79f88a682c12ca29129079668e3954"
   }
 }
