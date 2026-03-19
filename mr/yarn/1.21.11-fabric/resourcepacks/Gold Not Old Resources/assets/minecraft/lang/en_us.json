@@ -9,7 +9,7 @@
 	"debug.reload_resourcepacks.message": "Reloaded texture packs",
 	"download.pack.title": "Downloading texture pack %s/%s",
 	"generator.gold_not_old.beta": "Beta",
-	"generator.gold_not_old.default": "A Changed World",
+	"generator.gold_not_old.default": "Changed World",
 	"generator.gold_not_old.adventure": "Adventure",
 	"generator.minecraft.normal": "Caves & Cliffs",
 	"mco.configure.world.resourcepack.question": "You need a custom texture pack to play on this realm\n\nDo you want to download it and play?",
