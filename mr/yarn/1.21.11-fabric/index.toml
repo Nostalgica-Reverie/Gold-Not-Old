@@ -234,7 +234,7 @@ hash = "bdf4181eb9d314ac42d17ffe0fb3ad492d45c29a309dee55931f798370875e01"
 
 [[files]]
 file = "config/modpack_defaults/config/resourcepackoverrides.json"
-hash = "d026efcc5b6587509326a8142742c41fa5e02dffc9acec4b7e554fe8f79c032a"
+hash = "8f31281e4e6523e6a1981925ff8eb22883ba63ce5b7ad3acaf31b0ad7ab77b30"
 
 [[files]]
 file = "config/modpack_defaults/config/scalablelux.properties"
@@ -302,7 +302,7 @@ hash = "c20cd4a591dfa9e5b16ff93ca525a338ef9cdfb35dd045b5abdce51e71a3fce3"
 
 [[files]]
 file = "config/modpack_defaults/options.txt"
-hash = "c17cf33b0601d0b76771c88c3534cd7421aa4e28e1a546c00b4ca7ad24338bab"
+hash = "402d3297e89c426308e64a15cd2f8ea0b12acefd81083ab8e8b3608d2d86600b"
 
 [[files]]
 file = "config/moreculling.toml"
@@ -326,7 +326,7 @@ hash = "bdf4181eb9d314ac42d17ffe0fb3ad492d45c29a309dee55931f798370875e01"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "d026efcc5b6587509326a8142742c41fa5e02dffc9acec4b7e554fe8f79c032a"
+hash = "8f31281e4e6523e6a1981925ff8eb22883ba63ce5b7ad3acaf31b0ad7ab77b30"
 
 [[files]]
 file = "config/scalablelux.properties"
@@ -641,7 +641,7 @@ hash = "0baf4cee3022ddc7a196fb00e564ac6fcbcd66b400efa26c6ab2094c039693a6"
 
 [[files]]
 file = "resourcepacks/golden-days.pw.toml"
-hash = "68695643dd8b70b7e70926983cdd506a406be90481c490db44b5466503407332"
+hash = "0f57e2f16c9e7a967599f17570dcbb1c8a0055e6c40c4ca794cba9c11ab7a89f"
 metafile = true
 
 [[files]]
@@ -653,6 +653,10 @@ metafile = true
 file = "resources/datapack/required/classic-villages.pw.toml"
 hash = "e9d44d04cac68614cb96da282d3ae6672b7ff0b1a4b506f8c15b8a585fd649f4"
 metafile = true
+
+[[files]]
+file = "resources/datapack/required/gold-not-old-world-gen/data/gold_not_old/worldgen/world_preset/adventure.json"
+hash = "d68e8aa5af228891325dcdefdfb72376086de6b01abc28db73f0f444c7bae7dd"
 
 [[files]]
 file = "resources/datapack/required/gold-not-old-world-gen/data/gold_not_old/worldgen/world_preset/beta.json"
