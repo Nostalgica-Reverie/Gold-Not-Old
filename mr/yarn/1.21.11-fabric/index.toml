@@ -625,7 +625,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/Gold Not Old Resources/assets/minecraft/lang/en_us.json"
-hash = "7a0116ccbd7bba52fd5c2b4987aa6f68fc8bfe498319b0bd47b0daa08fc6a401"
+hash = "c46b9478f4a9fd6920734b96ebb215e1284474787b3808d560c2e807934e3e5e"
 
 [[files]]
 file = "resourcepacks/Gold Not Old Resources/assets/minecraft/sounds/random/levelup.ogg"
@@ -656,7 +656,7 @@ metafile = true
 
 [[files]]
 file = "resources/datapack/required/gold-not-old-world-gen/data/gold_not_old/worldgen/world_preset/adventure.json"
-hash = "d68e8aa5af228891325dcdefdfb72376086de6b01abc28db73f0f444c7bae7dd"
+hash = "779dc9b5608a49f81d674f3e972ef2f2d6cc76992ed736eb7ca9e42490552cdc"
 
 [[files]]
 file = "resources/datapack/required/gold-not-old-world-gen/data/gold_not_old/worldgen/world_preset/beta.json"
@@ -668,7 +668,7 @@ hash = "918c16b9f88246d65c57bc18209860d2b42f65b192ad72843b0afed2b3a4d462"
 
 [[files]]
 file = "resources/datapack/required/gold-not-old-world-gen/data/minecraft/tags/worldgen/world_preset/normal.json"
-hash = "39c2b2eefa965a2738e9476ec1490f0b83b40fcf733aebc5e493ca6462ded9e2"
+hash = "25adc8bab449c6bc07865f96bf985014cbeb6bde0864f172e0a96bd2dcecaf46"
 
 [[files]]
 file = "resources/datapack/required/gold-not-old-world-gen/data/minecraft/worldgen/world_preset/amplified.json"
