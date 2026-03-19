@@ -274,7 +274,7 @@ hash = "e96438af51e995d5f15d0053af921e778a854ca72b147839b150172305d73be3"
 
 [[files]]
 file = "config/modpack_defaults/config/timeless.json"
-hash = "6b26fa2994136aa908856782fe3608c05ba646bdf7d9aaa2c2e983e5a32c2b00"
+hash = "88e83c2194d15094d33961326c41fcb61dd0fe730e385218a1f24269e7cd39b9"
 
 [[files]]
 file = "config/modpack_defaults/config/transition.json"
@@ -366,7 +366,7 @@ hash = "e96438af51e995d5f15d0053af921e778a854ca72b147839b150172305d73be3"
 
 [[files]]
 file = "config/timeless.json"
-hash = "6b26fa2994136aa908856782fe3608c05ba646bdf7d9aaa2c2e983e5a32c2b00"
+hash = "88e83c2194d15094d33961326c41fcb61dd0fe730e385218a1f24269e7cd39b9"
 
 [[files]]
 file = "config/transition.json"
