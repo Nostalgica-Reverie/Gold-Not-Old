@@ -63,8 +63,6 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","programmer_art","file/PACP_Base_Release.zip","animatium:classic_textures","animatium:classic_water","file/golden-days-base-1.21.x-1.15.0.zip","file/Gold Not Old Resources"]
-incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
 chatVisibility:0
