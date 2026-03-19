@@ -10,7 +10,7 @@ hash = "a13011525cb6dd5679102283c7b52418bbc3f9de8e7d437f01d305c5ad53c954"
 
 [[files]]
 file = "config/animatium.json"
-hash = "300b9d7e22cd2e89b53ebd5f73c4b38acefbc0a0e91f8498a67c6fef809da6e1"
+hash = "4620784c330ed1b27791a780bbd26de534c33ea639470cdc8e09c6439bb1cc2a"
 
 [[files]]
 file = "config/badoptimizations.txt"
@@ -114,7 +114,7 @@ hash = "a13011525cb6dd5679102283c7b52418bbc3f9de8e7d437f01d305c5ad53c954"
 
 [[files]]
 file = "config/modpack_defaults/config/animatium.json"
-hash = "300b9d7e22cd2e89b53ebd5f73c4b38acefbc0a0e91f8498a67c6fef809da6e1"
+hash = "4620784c330ed1b27791a780bbd26de534c33ea639470cdc8e09c6439bb1cc2a"
 
 [[files]]
 file = "config/modpack_defaults/config/badoptimizations.txt"

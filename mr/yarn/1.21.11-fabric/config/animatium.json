@@ -103,7 +103,7 @@
 		"restore_particle_blending": true,
 		"flame_dimensions": true,
 		"flame_offset": true,
-		"persistent_block_outline": true,
+		"persistent_block_outline": false,
 		"old_minimum_smooth_lighting": true,
 		"old_cloud_rendering": true,
 		"always_steve_model": true,

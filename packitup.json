@@ -14,7 +14,7 @@
                     "id": "SdrpknJJ",
                     "versionPlaceholder": "{ModpackVersion}+mc{MinecraftVersion}",
                     "providerVersionPlaceholder": "{ModpackVersion}+mc{MinecraftVersion}",
-                    "providerNamePlaceholder": "Gold Not Old {ModpackVersion}",
+                    "providerNamePlaceholder": "{ModpackVersion} for {ModpackLoaderName} {MinecraftVersion}",
                     "exportPlaceholder": "{ModpackName} {ModpackVersion}",
                     "packFolders": [
                         "mr/yarn/1.21.11-fabric"
